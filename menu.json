@@ -1,0 +1,1071 @@
+[
+  {
+    "name": "Шаурма и бургеры",
+    "subtitle": "гиро, донар, хот-дог",
+    "note": "",
+    "items": [
+      {
+        "id": "m1",
+        "name": "Гиро с крылышками",
+        "description": "гиро и хрустящие куриные крылышки",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 389
+          }
+        ]
+      },
+      {
+        "id": "m2",
+        "name": "Шаурма сырная",
+        "description": "с тянущимся сыром",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 269
+          }
+        ]
+      },
+      {
+        "id": "m3",
+        "name": "Шаурма в кляре",
+        "description": "в золотистом хрустящем кляре",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 289
+          }
+        ]
+      },
+      {
+        "id": "m4",
+        "name": "Шаурма с курицей",
+        "description": "классика с сочной курицей",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 239
+          }
+        ]
+      },
+      {
+        "id": "m5",
+        "name": "Гиро на тарелке",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 359
+          }
+        ]
+      },
+      {
+        "id": "m6",
+        "name": "Донар",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 239
+          }
+        ]
+      },
+      {
+        "id": "m7",
+        "name": "Гиро",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 239
+          }
+        ]
+      },
+      {
+        "id": "m8",
+        "name": "Чизбургер",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m9",
+        "name": "Хот-дог",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 159
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Закуски",
+    "subtitle": "к основному блюду",
+    "note": "",
+    "items": [
+      {
+        "id": "m10",
+        "name": "Куриные крылышки",
+        "description": "острые или классические — на выбор",
+        "tag": "острое",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m11",
+        "name": "Куриный попкорн",
+        "description": "хрустящие кусочки курицы",
+        "tag": "новинка",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 259
+          }
+        ]
+      },
+      {
+        "id": "m12",
+        "name": "Стрипсы, 6 шт.",
+        "description": "куриное филе в хрустящей панировке",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 259
+          }
+        ]
+      },
+      {
+        "id": "m13",
+        "name": "Картофель фри",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m14",
+        "name": "Сырные палочки, 6 шт.",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 259
+          }
+        ]
+      },
+      {
+        "id": "m15",
+        "name": "Наггетсы, 6 шт.",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m16",
+        "name": "Картофель по-деревенски",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 159
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Соусы",
+    "subtitle": "к любому блюду",
+    "note": "",
+    "items": [
+      {
+        "id": "m17",
+        "name": "Сырный",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 49
+          }
+        ]
+      },
+      {
+        "id": "m18",
+        "name": "Чесночный",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 49
+          }
+        ]
+      },
+      {
+        "id": "m19",
+        "name": "Томатный",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 49
+          }
+        ]
+      },
+      {
+        "id": "m20",
+        "name": "Кисло-сладкий",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Комбо",
+    "subtitle": "выгоднее вместе",
+    "note": "",
+    "items": [
+      {
+        "id": "m21",
+        "name": "Семейный",
+        "description": "большая пицца + 2 чизбургера + 2 фри",
+        "tag": "выгодно",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 999
+          }
+        ]
+      },
+      {
+        "id": "m22",
+        "name": "Шаурма + фри",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 349
+          }
+        ]
+      },
+      {
+        "id": "m23",
+        "name": "Чизбургер + фри",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 279
+          }
+        ]
+      },
+      {
+        "id": "m24",
+        "name": "Детский бокс",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 409
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Пицца",
+    "subtitle": "на всю компанию",
+    "note": "Большая — всего на 50 ₽ дороже средней",
+    "items": [
+      {
+        "id": "m25",
+        "name": "Пепперони",
+        "description": "пепперони, сыр, томатный соус",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m26",
+        "name": "Мясная",
+        "description": "мясное ассорти и сыр",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m27",
+        "name": "Мексиканская",
+        "description": "для любителей поострее",
+        "tag": "острое",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m28",
+        "name": "4 сезона",
+        "description": "четыре вкуса в одной пицце",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m29",
+        "name": "4 сыра",
+        "description": "четыре вида сыра",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m30",
+        "name": "Цезарь",
+        "description": "курица и соус цезарь",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m31",
+        "name": "Куриная с грибами",
+        "description": "курица и грибы",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m32",
+        "name": "Маргарита",
+        "description": "томаты и сыр — классика",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m33",
+        "name": "Фри",
+        "description": "с картофелем фри",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m34",
+        "name": "Куриная",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m35",
+        "name": "Грибная",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m36",
+        "name": "Сырная",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "средняя",
+            "price": 409
+          },
+          {
+            "label": "большая",
+            "price": 459
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Домашняя еда",
+    "subtitle": "чеченская кухня",
+    "note": "К галнашу — чайник чая на всю семью",
+    "items": [
+      {
+        "id": "m37",
+        "name": "Жижиг-галнаш",
+        "description": "мясо с галушками",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 759
+          }
+        ]
+      },
+      {
+        "id": "m38",
+        "name": "Жижиг-галнаш дакъийна",
+        "description": "с вяленым мясом",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 859
+          }
+        ]
+      },
+      {
+        "id": "m39",
+        "name": "Жижиг-галнаш котам",
+        "description": "с курицей",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 659
+          }
+        ]
+      },
+      {
+        "id": "m40",
+        "name": "БаӀар-галнаш",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 809
+          }
+        ]
+      },
+      {
+        "id": "m41",
+        "name": "Йовхь-галнаш",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 759
+          }
+        ]
+      },
+      {
+        "id": "m42",
+        "name": "Йовхь-галнаш дакъийна",
+        "description": "с вяленым мясом",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 859
+          }
+        ]
+      },
+      {
+        "id": "m43",
+        "name": "ЧӀепалг",
+        "description": "лепёшки с творогом",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m44",
+        "name": "Хингалш",
+        "description": "лепёшки с тыквой",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m45",
+        "name": "Далнаш",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 189
+          }
+        ]
+      },
+      {
+        "id": "m46",
+        "name": "Хьокхам к блюду",
+        "description": "большая порция — 79",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 59
+          }
+        ]
+      },
+      {
+        "id": "m47",
+        "name": "Лагман",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": null
+          }
+        ]
+      },
+      {
+        "id": "m48",
+        "name": "Пельмени",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": null
+          }
+        ]
+      },
+      {
+        "id": "m49",
+        "name": "Манты",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Роллы",
+    "subtitle": "каждый день",
+    "note": "",
+    "items": [
+      {
+        "id": "m50",
+        "name": "Филадельфия",
+        "description": "лосось и сливочный сыр",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 359
+          }
+        ]
+      },
+      {
+        "id": "m51",
+        "name": "Темпура с креветкой",
+        "description": "горячий ролл в хрустящей темпуре",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m52",
+        "name": "Цезарь-ролл",
+        "description": "с курицей и соусом цезарь",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 359
+          }
+        ]
+      },
+      {
+        "id": "m53",
+        "name": "Калифорния с лососем",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m54",
+        "name": "Запечённый ролл",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 359
+          }
+        ]
+      },
+      {
+        "id": "m55",
+        "name": "Калифорния с крабом",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m56",
+        "name": "Бешеный лосось",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Роллы — продолжение",
+    "subtitle": "каждый день",
+    "note": "",
+    "items": [
+      {
+        "id": "m57",
+        "name": "Красный дракон",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m58",
+        "name": "Горячий шик",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m59",
+        "name": "Тайфун",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m60",
+        "name": "Цунами",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m61",
+        "name": "Классический ролл",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      },
+      {
+        "id": "m62",
+        "name": "Хот-дог ролл",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 309
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Сэндвич-роллы",
+    "subtitle": "большие и сытные",
+    "note": "",
+    "items": [
+      {
+        "id": "m63",
+        "name": "С лососем",
+        "description": "",
+        "tag": "новинка",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m64",
+        "name": "С креветкой",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 459
+          }
+        ]
+      },
+      {
+        "id": "m65",
+        "name": "С курицей",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 459
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Салаты",
+    "subtitle": "лёгкое и свежее",
+    "note": "",
+    "items": [
+      {
+        "id": "m66",
+        "name": "Цезарь",
+        "description": "курица, листья салата, сухарики, соус цезарь",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 389
+          }
+        ]
+      },
+      {
+        "id": "m67",
+        "name": "Греческий",
+        "description": "свежие овощи, сыр, маслины",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 289
+          }
+        ]
+      },
+      {
+        "id": "m68",
+        "name": "Крабовый",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 279
+          }
+        ]
+      },
+      {
+        "id": "m69",
+        "name": "Свежий",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 259
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Чай",
+    "subtitle": "в чайнике",
+    "note": "Чёрный и зелёный можно и чашкой — 49 ₽",
+    "items": [
+      {
+        "id": "m70",
+        "name": "Наглый фрукт",
+        "description": "",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m71",
+        "name": "Дикая вишня",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m72",
+        "name": "Малиновый бархат",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m73",
+        "name": "Лев",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m74",
+        "name": "Граф Орлов",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m75",
+        "name": "Айва — персик",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m76",
+        "name": "Манго — маракуйя",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          }
+        ]
+      },
+      {
+        "id": "m77",
+        "name": "Зелёный",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          },
+          {
+            "label": "Чашка",
+            "price": 49
+          }
+        ]
+      },
+      {
+        "id": "m78",
+        "name": "Чёрный",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чайник",
+            "price": 159
+          },
+          {
+            "label": "Чашка",
+            "price": 49
+          }
+        ]
+      }
+    ]
+  }
+]
