@@ -278,38 +278,26 @@
         ]
       },
       {
-        "id": "m22",
-        "name": "Шаурма + фри",
+        "id": "m79",
         "description": "",
         "tag": "",
+        "name": "Для себя",
         "variants": [
           {
             "label": "Порция",
-            "price": 339
+            "price": 699
           }
         ]
       },
       {
-        "id": "m23",
-        "name": "Чизбургер + фри",
+        "id": "m80",
         "description": "",
         "tag": "",
+        "name": "Для друзей",
         "variants": [
           {
             "label": "Порция",
-            "price": 269
-          }
-        ]
-      },
-      {
-        "id": "m24",
-        "name": "Детский бокс",
-        "description": "",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 399
+            "price": 2000
           }
         ]
       }
@@ -520,80 +508,20 @@
     "note": "К галнашу — чайник чая на всю семью",
     "items": [
       {
-        "id": "m37",
-        "name": "Жижиг-галнаш",
-        "description": "мясо с галушками",
-        "tag": "хит",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 749
-          }
-        ]
-      },
-      {
-        "id": "m38",
-        "name": "Жижиг-галнаш дакъийна",
-        "description": "с вяленым мясом",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 849
-          }
-        ]
-      },
-      {
-        "id": "m39",
-        "name": "Жижиг-галнаш котам",
-        "description": "с курицей",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 649
-          }
-        ]
-      },
-      {
-        "id": "m40",
-        "name": "БаӀар-галнаш",
+        "id": "m47",
+        "name": "Лагман",
         "description": "",
         "tag": "",
         "variants": [
           {
             "label": "Порция",
-            "price": 799
-          }
-        ]
-      },
-      {
-        "id": "m41",
-        "name": "Йовхь-галнаш",
-        "description": "",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 749
-          }
-        ]
-      },
-      {
-        "id": "m42",
-        "name": "Йовхь-галнаш дакъийна",
-        "description": "с вяленым мясом",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 849
+            "price": 349
           }
         ]
       },
       {
         "id": "m43",
-        "name": "ЧӀепалг",
+        "name": "Чепалг",
         "description": "лепёшки с творогом",
         "tag": "хит",
         "variants": [
@@ -612,42 +540,6 @@
           {
             "label": "Порция",
             "price": 149
-          }
-        ]
-      },
-      {
-        "id": "m45",
-        "name": "Далнаш",
-        "description": "",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 179
-          }
-        ]
-      },
-      {
-        "id": "m46",
-        "name": "Хьокхам к блюду",
-        "description": "большая порция — 79",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 49
-          }
-        ]
-      },
-      {
-        "id": "m47",
-        "name": "Лагман",
-        "description": "",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Порция",
-            "price": 349
           }
         ]
       },
@@ -672,6 +564,42 @@
           {
             "label": "Порция",
             "price": 349
+          }
+        ]
+      },
+      {
+        "id": "m39",
+        "name": "Котам-галнаш",
+        "description": "с курицей",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 649
+          }
+        ]
+      },
+      {
+        "id": "m37",
+        "name": "Жижиг-галнаш",
+        "description": "мясо с галушками",
+        "tag": "хит",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 749
+          }
+        ]
+      },
+      {
+        "id": "m46",
+        "name": "Хьовхам",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Порция",
+            "price": 49
           }
         ]
       }
@@ -765,14 +693,7 @@
             "price": 299
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Роллы — продолжение",
-    "subtitle": "каждый день",
-    "note": "",
-    "items": [
+      },
       {
         "id": "m57",
         "name": "Красный дракон",
@@ -951,6 +872,54 @@
     "note": "Чашка — 49 ₽ · Чайник — 149 ₽",
     "items": [
       {
+        "id": "m78",
+        "name": "Чёрный",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чашка",
+            "price": 49
+          },
+          {
+            "label": "Чайник",
+            "price": 149
+          }
+        ]
+      },
+      {
+        "id": "m77",
+        "name": "Зелёный",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чашка",
+            "price": 49
+          },
+          {
+            "label": "Чайник",
+            "price": 149
+          }
+        ]
+      },
+      {
+        "id": "m73",
+        "name": "Лев",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чашка",
+            "price": 49
+          },
+          {
+            "label": "Чайник",
+            "price": 149
+          }
+        ]
+      },
+      {
         "id": "m70",
         "name": "Наглый фрукт",
         "description": "",
@@ -983,56 +952,24 @@
         ]
       },
       {
-        "id": "m72",
-        "name": "Малиновый бархат",
-        "description": "",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Чашка",
-            "price": 49
-          },
-          {
-            "label": "Чайник",
-            "price": 149
-          }
-        ]
-      },
-      {
-        "id": "m73",
-        "name": "Лев",
-        "description": "",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Чашка",
-            "price": 49
-          },
-          {
-            "label": "Чайник",
-            "price": 149
-          }
-        ]
-      },
-      {
-        "id": "m74",
-        "name": "Граф Орлов",
-        "description": "",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Чашка",
-            "price": 49
-          },
-          {
-            "label": "Чайник",
-            "price": 149
-          }
-        ]
-      },
-      {
         "id": "m75",
         "name": "Айва — персик",
+        "description": "",
+        "tag": "",
+        "variants": [
+          {
+            "label": "Чашка",
+            "price": 49
+          },
+          {
+            "label": "Чайник",
+            "price": 149
+          }
+        ]
+      },
+      {
+        "id": "m72",
+        "name": "Малиновый бархат",
         "description": "",
         "tag": "",
         "variants": [
@@ -1063,24 +1000,8 @@
         ]
       },
       {
-        "id": "m77",
-        "name": "Зелёный",
-        "description": "",
-        "tag": "",
-        "variants": [
-          {
-            "label": "Чашка",
-            "price": 49
-          },
-          {
-            "label": "Чайник",
-            "price": 149
-          }
-        ]
-      },
-      {
-        "id": "m78",
-        "name": "Чёрный",
+        "id": "m74",
+        "name": "Граф Орлов",
         "description": "",
         "tag": "",
         "variants": [
